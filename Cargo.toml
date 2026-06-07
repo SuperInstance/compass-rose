@@ -1,0 +1,9 @@
+[package]
+name = "compass-rose"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-directional decision analysis with bearings, cardinal strategies, and navigation through decision space"
+repository = "https://github.com/SuperInstance/compass-rose"
+license = "MIT"
+
+[dev-dependencies]
